@@ -9,6 +9,7 @@ A Flutter application that replicates the Gemini chat interface using the Google
 - **Responsive Chat UI**: Clean and functional chat interface.
 - **Message Handling**: Send and receive messages using Gemini API.
 - **Loading States & Error Handling**: Smooth UX with loading indicators and error handling.
+- Theme Changing Button: For Light and Dark theme.
 ---
 
 ## Tech Stack & Dependencies
