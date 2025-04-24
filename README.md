@@ -15,6 +15,10 @@ A Flutter application that replicates the Gemini chat interface using the Google
 
 The following dependencies are used in this project:
 
+<img src="./Screenshot.png" alt="App Screenshot" width="300" height="600"/>
+
+
+[Download the MP4 demo](./Gemini_Clone.mp4)
 ```yaml
 dependencies:
   flutter:
@@ -27,4 +31,3 @@ dependencies:
   flutter_screenutil: ^5.0.0
   google_fonts: ^6.1.1
 
-![Alt Text]()
